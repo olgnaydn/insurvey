@@ -1,4 +1,4 @@
-#insuRvey: An R package for Instagram Based Surveys#
+#insuRvey: An R package for Instagram Based Surveys
 
 
 As all of us know that most of the companies have started to make some surveys to make people pay attention to their Instagram pages and make them follow their Instagram pages. People can attend these surveys just with adding comments and mentioning their friends to survey related posts. 
