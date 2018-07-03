@@ -2,7 +2,7 @@ Package: instagramsurvey
 Type: Package
 Title: An R Package for Instagram Based Surveys/Campaigns/Raffels
 Version: 0.1.0
-Author: Who wrote it
+Author: Olgun Aydin
 Maintainer: Olgun Aydin <olgunaydinn@gmail.com>
 Description: 
 License: What license is it under?
