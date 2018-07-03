@@ -5,7 +5,7 @@ As all of us know that most of the companies have started to make some surveys t
 insuRvey library has been built to provide solution to Instagram Surveys. The library which has been built by using R,  first of all navigates the url of survey related post, and collects comments, parses comments to detect users who put comments and users who are mentioned. At final step thanks to random sampling techniques, there is a chance to find the lucky person.
 
 
-presented in whyR2018
+presented in whyR2018: http://whyr2018.pl/
 
 
 # Installation process
