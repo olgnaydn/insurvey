@@ -17,7 +17,32 @@ If you havent installed devtools yet, please install it before running following
 devtools::install_github("olgnaydn/insurvey")
 ```
 
-Let's make simple examples..
+To get the users who have been mentioned from the post:
+
+```
+get_ment_users(url_of_post)
+```
+
+
+To get the users who mentioned to the post:
+
+```
+get_users_ment(url_of_post)
+```
+
+To exclude spesific users who mentioned to the post:
+
+```
+exclude_users(mentioned_user_df,user_mentioned_df,excluded_users)
+```
+
+To select the luckiest user:
+
+```
+random_sampling(all_users_new) 
+```
+
+
 
 Please feel free to write to us and contribute the package.
 
