@@ -1,11 +1,14 @@
-Package: instagramsurvey
-Type: Package
-Title: An R Package for Instagram Based Surveys/Campaigns/Raffels
-Version: 0.1.0
-Author: Olgun Aydin
-Maintainer: Olgun Aydin <olgunaydinn@gmail.com>
-Description: survyes
-License: What license is it under?
+Package: insurvey
+Title: insuRvey: An R Package for Instagram Based Surveys/Raffles/Campaigns 
+Version: 0.0.1
+Authors@R: person("Olgun", "Aydin", email = "olgunaydinn@gmail.com", role = c("aut","cre"))
+Description: Provides analyzing instagram.
+Depends: R (>= 3.4.2)
+License: No license
 Encoding: UTF-8
 LazyData: true
+Imports:
+    rvest,
+    stringr,
+    RSelenium
 RoxygenNote: 6.0.1
