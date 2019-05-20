@@ -11,7 +11,7 @@ get_ment_users <- function(url_of_post)
   webElem2<-NULL
 
   #loading drivers and starting selenium
-  rD <- rsDriver()
+  rD <- rsDriver(verbose = FALSE,port=4444L)
   remDr <- rD[["client"]]
 
   #navigate survey related url
